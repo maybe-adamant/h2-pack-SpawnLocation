@@ -4,7 +4,7 @@ schemaVersion = "0.0.1"
 
 [package]
 namespace = "adamant"
-name = "adamant-SpawnLocation"
+name = "SpawnLocation"
 versionNumber = "1.0.0"
 description = "Spawns you in the Training Grounds instead of the House of Hades. Useful for testing and practicing."
 websiteUrl = "https://github.com/maybe-adamant/h2-pack-SpawnLocation"
